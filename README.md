@@ -1,10 +1,10 @@
 # Olá, eu sou a Gabriela! 👋
 
-🎯 **QA Júnior** | Analista de Qualidade de Software, com background em e-commerce e operações em marketplaces (Mercado Livre, Shopee).
+ **QA Júnior** | Analista de Qualidade de Software, com background em e-commerce e operações em marketplaces (Mercado Livre, Shopee).
 
-🔍 Atualmente focada em testes manuais, automação com Cypress, testes de API com Postman e gestão de bugs via Jira.
+Atualmente focada em testes manuais, automação com Cypress, testes de API com Postman e gestão de bugs via Jira.
 
-💡 Minha experiência prévia em análise de e-commerce me dá uma visão prática do comportamento real do usuário, algo que aplico diretamente na forma como testo e reporto bugs.
+Minha experiência prévia em análise de e-commerce me dá uma visão prática do comportamento real do usuário, algo que aplico diretamente na forma como testo e reporto bugs.
 
 ---
 
