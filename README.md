@@ -16,7 +16,7 @@ Minha base em e-commerce me deu o que cursos não ensinam: entender o negócio p
 
 ## 📌 Projeto em destaque
 
-### 🔗 [QA Portfolio — Mercado Livre](https://github.com/gabrielacurti/QA-Portfolio-2026)
+### 🔗 [QA Portfolio - Mercado Livre](https://github.com/gabrielacurti/QA-Portfolio-2026)
 Portfólio completo de testes manuais aplicados ao fluxo de compra do Mercado Livre: 60 casos de teste, bugs documentados e relatório de sprint via Jira Scrum.
 
 ---
