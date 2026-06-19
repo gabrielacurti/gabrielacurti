@@ -6,6 +6,7 @@ Aplico esse conhecimento em um projeto end-to-end de testes manuais, simulando o
 
 Minha base em e-commerce me deu o que cursos não ensinam: entender o negócio por dentro, antecipar falhas de usabilidade e comunicar bugs com contexto real. Ambientes de alta demanda e atenção a detalhes já fazem parte da minha rotina há alguns anos e aplico isso diretamente em qualidade de software.
 
+📄 [Baixar meu currículo](https://drive.google.com/file/d/1GYmDz60hdml51LoEuyuXuRNOL9Ee9TTh/view?usp=sharing)
 ---
 
 ## 🧰 Habilidades Técnicas
