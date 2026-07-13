@@ -15,7 +15,11 @@ Minha vivência em e-commerce me deu o que nenhum curso ensina sozinho: entender
 
 ## 📌 Projeto em destaque
 
-### 🔗 [QA Portfolio - Mercado Livre](https://github.com/gabrielacurti/QA-Portfolio-2026)
+### ⚙️ [Testes Automatizados - Cypress (OrangeHRM)](https://github.com/gabrielacurti/Testes-Automatizados-Cypress)
+Automação de testes com Cypress no sistema de RH OrangeHRM, cobrindo cenários positivos e negativos de login.
+
+### 🔍 [Testes Manuais E2E - Mercado Livre](https://github.com/gabrielacurti/Testes-Manuais-de-Fluxo-E2E-Mercado-Livre)
+Testes manuais end-to-end no fluxo de compra do Mercado Livre (login, busca, carrinho e checkout), com casos de teste documentados, bugs reportados e regras de negócio mapeadas.
 Portfólio completo de testes manuais aplicados ao fluxo de compra do Mercado Livre: 56 casos de teste, bugs documentados e relatório de sprint via Jira Scrum.
 
 ---
