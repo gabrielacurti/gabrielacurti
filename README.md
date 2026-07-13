@@ -2,7 +2,7 @@
 
 Analista de QA com habilidades práticas em testes automatizados e manuais.
  
-Em projetos que estão documentados aqui no GitHub, demonstro meu pensamento analítico em projetos de QA: testes manuais no fluxo completo de compra de um marketplace (login, busca, carrinho e checkout), e automação com Cypress em um sistema de RH (OrangeHRM), incluindo cenários positivos e negativos de login.
+Em projetos que estão documentados aqui no GitHub, demonstro meu trabalho analítico em projetos de QA: testes manuais no fluxo completo de compra de um marketplace (login, busca, carrinho e checkout), e automação com Cypress em um sistema de RH (OrangeHRM), incluindo cenários positivos e negativos de login.
  
 Minha vivência em e-commerce me deu o que nenhum curso ensina sozinho: entender o negócio por dentro, antecipar falhas de usabilidade e comunicar bugs com contexto real de impacto no usuário e no negócio. Rotina de alta demanda, prazos apertados e atenção a detalhes já fazem parte do meu dia a dia há alguns anos, e isso se traduz diretamente em qualidade de software.
 
