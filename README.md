@@ -13,10 +13,13 @@ Minha vivência em e-commerce me deu o que nenhum curso ensina sozinho: entender
 [Baixar meu currículo](https://drive.google.com/file/d/16-uGVexUR1TeDWXtYHHMXbDVlFqmV2Ey/view?usp=sharing)
 ---
 
-## Projeto em destaque
+## Projetos em destaque
 
 ### [Testes Automatizados - Cypress (OrangeHRM)](https://github.com/gabrielacurti/Testes-Automatizados-Cypress)
 Automação de testes com Cypress no sistema de RH OrangeHRM, cobrindo cenários positivos e negativos de login.
+
+### [Conferência de Estoque e Reposição - AJ Bengoa](https://github.com/gabrielacurti/estoque-conferencia-ajb)
+App interno de conferência diária de estoque cruzando vendas de Mercado Livre e Shopee com o ERP (~7 mil produtos, 80 pedidos/dia). Levantamento de requisitos, análise de regras de negócio e validação de cada cenário (kits com múltiplos SKUs, pedidos com despacho futuro, venda duplicada no mesmo dia) feitos por mim; implementação com apoio de IA.
 
 ### [Testes Manuais E2E - Mercado Livre](https://github.com/gabrielacurti/Testes-Manuais-de-Fluxo-E2E-Mercado-Livre)
 Testes manuais end-to-end no fluxo de compra do Mercado Livre (login, busca, carrinho e checkout), com casos de teste documentados, bugs reportados e regras de negócio mapeadas.
