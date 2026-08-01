@@ -1,4 +1,4 @@
-# Olá, eu sou a Gabriela! 
+# Gabriela Curti Masse
 
 Analista de QA com habilidades práticas em testes automatizados e manuais.
  
