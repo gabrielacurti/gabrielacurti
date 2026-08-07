@@ -1,10 +1,10 @@
 # Gabriela Curti Masse
 
-Analista de QA com habilidades práticas em testes automatizados e manuais.
- 
-Em projetos que estão documentados aqui no GitHub, demonstro meu trabalho analítico em projetos de QA: testes manuais no fluxo completo de compra de um marketplace (login, busca, carrinho e checkout), e automação com Cypress em um sistema de RH (OrangeHRM), incluindo cenários positivos e negativos de login.
- 
-Minha vivência em e-commerce me deu o que nenhum curso ensina sozinho: entender o negócio por dentro, antecipar falhas de usabilidade e comunicar bugs com contexto real de impacto no usuário e no negócio. Rotina de alta demanda, prazos apertados e atenção a detalhes já fazem parte do meu dia a dia há alguns anos, e isso se traduz diretamente em qualidade de software.
+Sou Analista de QA com experiência prática em automação (Cypress), testes manuais, testes de API (Postman) e SQL básico. Atualmente começando a estudar Playwright.
+
+Meu diferencial vem da minha base em análise de e-commerce, onde diariamente cruzo informações entre marketplaces e ERPs, valido essas integrações e SKUs para reduzir erros de estoque e informações de produtos, antecipando falhas de usabilidade e comunicando bugs com contexto real de impacto para o negócio.
+
+Recentemente, apliquei esse mesmo raciocínio criando, com vibecoding (sob minha supervisão), um sistema pra resolver divergências reais entre o estoque físico e o sistema da operação: analisei e levantei os requisitos, desenhei a lógica de negócio, testei cada cenário e encontrei e corrigi bugs ao longo do processo (projeto visível logo abaixo: Conferência de Estoque e Reposição - AJ Bengoa
 
 ## Habilidades Técnicas
 
