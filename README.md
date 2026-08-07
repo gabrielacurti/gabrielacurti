@@ -10,7 +10,7 @@ Recentemente, apliquei esse mesmo raciocínio criando, com vibecoding (sob minha
 
 `Cypress` `Postman` `SQL` `Jira` `Git/GitHub` `Documentação estruturada de evidências`
 
-[Baixar meu currículo](https://drive.google.com/file/d/16-uGVexUR1TeDWXtYHHMXbDVlFqmV2Ey/view?usp=sharing)
+[Baixar meu currículo](https://drive.google.com/file/d/1a3jtsaCbNEZXNn_4odrg3_0Mjr6n7IaU/view?usp=sharing)
 ---
 
 ## Projetos em destaque
