@@ -4,7 +4,7 @@ Sou Analista de QA com experiência prática em automação (Cypress), testes ma
 
 Meu diferencial vem da minha base em análise de e-commerce, onde diariamente cruzo informações entre marketplaces e ERPs, valido essas integrações e SKUs para reduzir erros de estoque e informações de produtos, antecipando falhas de usabilidade e comunicando bugs com contexto real de impacto para o negócio.
 
-Recentemente, apliquei esse mesmo raciocínio criando, com vibecoding (sob minha supervisão), um sistema pra resolver divergências reais entre o estoque físico e o sistema da operação: analisei e levantei os requisitos, desenhei a lógica de negócio, testei cada cenário e encontrei e corrigi bugs ao longo do processo (projeto visível logo abaixo: Conferência de Estoque e Reposição - AJ Bengoa
+Recentemente, apliquei esse mesmo raciocínio criando, com vibecoding (sob minha supervisão), um sistema pra resolver divergências reais entre o estoque físico e o sistema da operação: analisei e levantei os requisitos, desenhei a lógica de negócio, testei cada cenário e encontrei e corrigi bugs ao longo do processo (projeto visível logo abaixo: Conferência de Estoque e Reposição - AJ Bengoa)
 
 ## Habilidades Técnicas
 
